@@ -26,6 +26,8 @@ Then I moved on to Active Directory and Domain Services (AD DS) setup. I install
 
 I named the new domain "resort.local" to reflect the simulated business environment. 
 
+![Image](https://github.com/user-attachments/assets/d202a713-37b2-4611-8959-bfd7d55bdc9a)
+
 ## Departments, Users, and Groups
 
 With the lab environment and domain established I moved on to the core of the project. I created Organizational Units (OUs) for each resort department. These included:
@@ -51,6 +53,8 @@ This structure allowed me to practice:
 - Organizing users using OUs
 - Planning a logical permissions to establish a Role Based Access Control (RBAC) approach for the resort
 
+  ![Image](https://github.com/user-attachments/assets/70b1ff5f-aa91-4148-a365-672b9c12e1ce)
+
 ## Folder Permissions
 
 To simulate real world access controls, I created department specific folders on the server and used Microsoft's New Technology File System (NTFS) permissions to control access.
@@ -66,6 +70,8 @@ This gave me hands-on experience managing permissions:
   - Security Groups
   - Access Controls Lists (ACLs)
   - RBAC Principles
+
+![Image](https://github.com/user-attachments/assets/e4acab8e-bca6-439f-ac19-b8be6c2395b4)
 
 ## Help Desk Simulation with Spiceworks
 
@@ -83,6 +89,8 @@ This portion of the lab helped me experience a basic IT ticketing system and rei
  - The importance of documentation
  - The importance of clear communication with the end user
  - Ticket classification and prioritization
+
+![Image](https://github.com/user-attachments/assets/650deee4-1e1e-4282-9a73-996f8c9b5b96)
 
 # Project Reflection
 With this project I wanted to revisit some of the fundamental skills I developed earlier on in my studies. The CompTIA A+ was the first technical certificate I ever achieved, and while I know I am comfortable with the theoretical knowledge
